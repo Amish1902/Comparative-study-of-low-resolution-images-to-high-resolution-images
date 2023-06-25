@@ -1,0 +1,2 @@
+# Comparative-study-of-low-resolution-images-to-high-resolution-images
+This project explores various approaches for image upscaling and classification. We trained a Super Resolution Generative Adversarial Networks (SRGAN) model and compared its performance to other algorithms such as BICUBIC, LAPSRN, and EDSR. We also evaluated the effectiveness of different CNN algorithms for image classification tasks. 
